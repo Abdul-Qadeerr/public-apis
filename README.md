@@ -13,9 +13,3 @@ This app allows users to enter a city name and get real-time weather information
 
 ---
 
-## Setup
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/public-apis.git
-   cd public-apis/weather-app
